@@ -1,0 +1,88 @@
+html {
+    font-family:Abril Fatface;
+	width: 100%;
+	padding: 0em;
+	margin: 0;
+  }
+
+font {
+    font-family:Abril Fatface;
+  }
+
+body {
+    font-size: 18px;
+    color: #000000;
+    background-color: #ffbff5;
+	margin: 0;
+  }
+
+p {
+    font-size: 18px;
+    text-decoration: none;
+    color: #390663;
+  }
+
+p.title2 {
+    font-size: 24px;
+    text-decoration: none;
+    color: #FFFFFF;
+  }
+
+p.title1 {
+    font-size: 20px;
+    text-decoration: none;
+    color: #FFFFFF;
+  }
+
+p.title {
+    font-size: inherit;
+    text-decoration: bold;
+    color: #FFFFFF;
+  }
+  
+
+
+
+
+
+  
+  
+
+div.container {
+    width: 100%;
+	padding: 0em;
+	margin: 0;
+}
+
+	
+header, footer {
+    padding: 0.4em;
+    color: black;
+    background-color: #e8a2f9;
+    clear: left;
+    text-align: center;
+}
+
+nav {
+    float: left;
+    max-width: 160px;
+    margin: 0;
+    padding: 1em;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+   
+nav ul a {
+    text-decoration: none;
+}
+
+article {
+    margin-left: 170px;
+    border-left: 1px solid gray;
+    padding: 1em;
+    overflow: hidden;
+}
+  
